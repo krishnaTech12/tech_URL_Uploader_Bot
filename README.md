@@ -10,8 +10,8 @@
 
 # URL Uploader Bot
 
-This is the source code of [URL Uploader Bot](https://t.me/URL_UploaderAJ_Bot).
-And the developer of this bot is [AJTimePyro](https://t.me/AJTimePyro), His Telegram [Channel](http://t.me/AJPyroVerse) & [Group](http://t.me/AJPyroVerseGroup).
+This is the source code of [URL Uploader Bot](https://t.me/Radha_bots).
+And the developer of this bot is [AJTimePyro](https://t.me/Radha_bots), His Telegram [Channel](https://t.me/Radha_bots) & [Group](https://t.me/Radha_bots).
 
 You can use this source code in any way but you need to **give credit** to its
 Developer AJTimePyro.
@@ -25,7 +25,7 @@ Developer AJTimePyro.
 ## Direct Deploy
 Click Below Button to Deploy your Bot.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AJTimePyro/URL_Uploader_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krishnaTech12/tech_URL_Uploader_Bot)
 
 ## Support Telegram Group and Channel
 
